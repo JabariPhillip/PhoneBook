@@ -1,2 +1,2 @@
 # PhoneBook
-Basic phone book app
+Basic phone book app in python
